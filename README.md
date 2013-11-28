@@ -12,4 +12,11 @@ My Environment
 * Ubuntu 13.04
 * Nexus 4 (with Firefox OS 1.3)
 
+Scripts
+
+* togglelog.sh
+  * You could easily enable/disable btsnoop log on the target device by executing this script.
+
+* openlog.sh
+  * Help you pull btsnoop log from target device and launch pre-installed Wireshark to view the file
 
